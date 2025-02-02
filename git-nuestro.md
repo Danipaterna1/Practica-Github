@@ -1,3 +1,4 @@
+  GNU nano 8.2                                                                                                                    git-nuestro.md
 Git nuestro
 
 Git nuestro que estas en los repos
@@ -19,3 +20,4 @@ No nos dejes caer en detached HEAD
 y líbranos de SVN
 
 git commit --amend
+
